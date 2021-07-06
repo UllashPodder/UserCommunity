@@ -1,5 +1,7 @@
 # User Community - Android App
-* যেকোনো অ্যাপ এ লাগে এমন একটা বেসিক ইউজার অথেনটিকেশন
-* পরবর্তীতে ইচ্ছা আছে, বেসিক একটা ইউজার চ্যাট সংযুক্ত করার
-* কাজ চালাবার মত একটা firebase backend দিয়ে কাজ শুরু করা যেতে পারে
-* পরবর্তীতে python বা অন্য কোন ল্যাঙ্গুয়েজএ backend তৈরি করা যেতে পারে
+This will be a basic version of a community app. Users can register and see other users in the community. Common channel for community chat. Users can chat with other users as well
+##  High level use cases
+* Basic user Authentication and Registration
+* User profile and account preferences
+* User to User chat
+* Community Chat
